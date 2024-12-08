@@ -1,0 +1,21 @@
+body {
+  /* margin: 0;
+  padding: 0; */
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(241, 234, 234);
+    display: flex;
+    justify-content: space-evenly;
+    .card {
+      display: flex;
+      background-color: rgb(61, 140, 219);
+      color: white;
+      margin: 10px;
+      width: 200px;
+      height: 150px;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
